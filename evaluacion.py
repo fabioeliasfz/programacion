@@ -136,9 +136,9 @@ class SistemaGestionEscolar:
 sistema = SistemaGestionEscolar()
 
 # Agregar datos de ejemplo
-sistema.agregar_alumno(1, "Juan Perez")
-sistema.agregar_profesor(1, "Sra. Martinez")
-sistema.agregar_curso(1, "Matemáticas", 1)
+sistema.agregar_alumno(1, "Ckeimy Flores")
+sistema.agregar_profesor(1, "Fabio Figueroa")
+sistema.agregar_curso(1, "Desarrollo Agil", 1)
 
 # Mostrar datos
 sistema.mostrar_alumno(1)
